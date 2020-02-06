@@ -1,6 +1,6 @@
 {
   "name": "my-image-spinner",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -29,6 +29,10 @@
   ],
   "dependencies": {
     "styled-components": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohanperumal/my-image-spinner"
   },
   "keywords": [
     "Image Spinner"
